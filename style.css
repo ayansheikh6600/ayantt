@@ -1,0 +1,29 @@
+
+
+.leftdiv {
+    position: absolute;
+    border: solid;
+    width: 500px;  
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.rightdiv {
+    
+    position: absolute;
+    border: solid;
+    width: 650px;
+    height: 550px;
+    margin-left: 550px;
+    margin-top: 20px;
+
+    
+    
+}
+
+img {
+    width: 50px;
+}
+
+
